@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Nutra Queen Inc. - jQuery 主脚本
  */
 $(function () {
@@ -55,4 +55,14 @@ $(function () {
     ro.observe(el);
   });
 
+  // 5. Mobile menu toggle
+  $('.menu-toggle').on('click', function () {
+    $('.nav-links').toggleClass('open');
+  });
+
+  // 6. Close mobile menu on link click
+  $('.nav-links a').on('click', function () {
+    $('.nav-links').removeClass('open');
+  });
 });
+
