@@ -20,3 +20,6 @@ yarn-error.log*
 *.log
 *.tmp
 .env
+
+# IDE / Editor
+.continue/
