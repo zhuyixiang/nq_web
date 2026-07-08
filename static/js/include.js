@@ -1,16 +1,16 @@
-/**
- * Nutra Queen Inc. - HTML 公共组件加载说明
+﻿/**
+ * MIKA LEMON Inc. - HTML 鍏叡缁勪欢鍔犺浇璇存槑
  *
- * 由于浏览器 file:// 协议下 fetch 受 CORS 限制,
- * 当前页面采用直接嵌入方式。
+ * 鐢变簬娴忚鍣?file:// 鍗忚涓?fetch 鍙?CORS 闄愬埗,
+ * 褰撳墠椤甸潰閲囩敤鐩存帴宓屽叆鏂瑰紡銆?
  *
- * 公共组件文件保留在 includes/ 目录中，后续如果使用
- * 本地开发服务器(http://) 或构建工具时，可启用加载。
+ * 鍏叡缁勪欢鏂囦欢淇濈暀鍦?includes/ 鐩綍涓紝鍚庣画濡傛灉浣跨敤
+ * 鏈湴寮€鍙戞湇鍔″櫒(http://) 鎴栨瀯寤哄伐鍏锋椂锛屽彲鍚敤鍔犺浇銆?
  *
- * 使用方法（需要 HTTP 服务器时）：
+ * 浣跨敤鏂规硶锛堥渶瑕?HTTP 鏈嶅姟鍣ㄦ椂锛夛細
  *   <div data-include="header"></div>
  *   <script src="static/js/include.js"></script>
  *
- * includes/header.html  - 头部导航
- * includes/footer.html  - 页脚
+ * includes/header.html  - 澶撮儴瀵艰埅
+ * includes/footer.html  - 椤佃剼
  */

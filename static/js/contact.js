@@ -1,5 +1,5 @@
-/**
- * Nutra Queen Inc. - Contact Form Handler
+﻿/**
+ * MIKA LEMON Inc. - Contact Form Handler
  * Validates and submits the contact form via fetch() to a backend endpoint.
  * To use this in production, replace CONTACT_API_URL with your real server URL.
  */

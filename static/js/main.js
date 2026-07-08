@@ -1,5 +1,5 @@
 ﻿/**
- * Nutra Queen Inc. - jQuery 主脚本
+ * MIKA LEMON Inc. - jQuery 主脚本
  */
 $(function () {
 
